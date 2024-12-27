@@ -50,7 +50,7 @@
 ​"modified_since":null,
 ​"completed_since":null}},
 ​{"id":4,
-​"mapper":{"text":"タスクaがaaaaaaa加aaaaaaaaされまaしたーaっsあaaaあっっaasaああああああああaaaaaあああああawwawwwあああaaaa\n{{3.gid}}\n{{3.permalink_url}}\n",
+​"mapper":{"text":"タスクaがaaaaaa+aaaaaaa加aaaaaaaaされまaしたーaっsあaaaあっっaasaああああああああaaaaaあああああawwawwwあああaaaa\n{{3.gid}}\n{{3.permalink_url}}\n",
 ​"parse":false,
 ​"mrkdwn":true,
 ​"channel":"C08387WE4A3",
@@ -192,7 +192,7 @@
 ​"interval":1800},
 ​"concept":false,
 ​"created":"2024-12-25T07:46:41.141Z",
-​"last_edit":"2024-12-27T09:08:04.217Z",
+​"last_edit":"2024-12-27T09:10:01.705Z",
 ​"metadata":{"input_spec":[],
 ​"output_spec":[]},
 ​"idSequence":6}}
