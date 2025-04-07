@@ -95,7 +95,7 @@
     {
       "id": 4,
       "mapper": {
-        "text": "タスク追加されましたああああaaaaaaaa\n{{3.gid}}\n{{3.permalink_url}}\n",
+        "text": "タスク追加されましたああああaaaaaaaaaa\n{{3.gid}}\n{{3.permalink_url}}\n",
         "parse": false,
         "mrkdwn": true,
         "channel": "C08387WE4A3",
